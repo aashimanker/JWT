@@ -1,0 +1,15 @@
+server/node_modules
+client/node_modules
+
+server/package-lock.json
+server/.env
+
+
+client/eslint.config.js
+client/package-lock.json
+client/postcss.config.js
+client/tailwind.config.js
+
+client/vite.config.js
+client/.gitignore
+client/public
